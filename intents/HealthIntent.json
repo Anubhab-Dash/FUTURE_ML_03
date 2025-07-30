@@ -1,0 +1,96 @@
+{
+  "name": "",
+  "auto": true,
+  "responses": [
+    {
+      "text": {
+        "text": [
+          "how were you sick?",
+          "i had a stomachache.",
+          "i'm going to the store, would you like any pepto bismol?",
+          "that sucks. did you want the assignments from english class?",
+          "well, thank you. i hope to see you at school tomorrow."
+        ]
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "mlEnabled": true,
+  "trainingPhrases": [
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "i was sick."
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "how were you sick?"
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "i'm still feeling a little sick."
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "no, i didn't go, i've been sick."
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "i will be glad to do the same for you when you're sick."
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "if you get sick, i'll return the favor."
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "so it won't get sick. just like you get shots."
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "he always visited hospitals to cheer up sick kids."
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "people think you might be sick."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "name": "",
+  "auto": true,
+  "responses": [
+    {
+      "text": {
+        "text": [
+          "where is pasadena?",
+          "it's in california.",
+          "it's pretty big.",
+          "it's not too big.",
+          "that's correct."
+        ]
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "mlEnabled": true,
+  "trainingPhrases": [
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "i live in pasadena."
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "where is pasadena?"
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "is pasadena a big city?"
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "i agree. pasadena is a nice city."
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "456 cherry drive, pasadena, ca 91170."
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "i go to pasadena city college."
+        }
+      ]
+    }
+  ]
+}

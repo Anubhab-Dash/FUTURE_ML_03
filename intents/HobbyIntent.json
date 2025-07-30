@@ -1,0 +1,136 @@
+{
+  "name": "",
+  "auto": true,
+  "responses": [
+    {
+      "text": {
+        "text": [
+          "you know how to draw and paint?",
+          "yes, i do.",
+          "i didn't know you knew how to draw and paint.",
+          "i do it every once in a while.",
+          "oh, you actually do that?"
+        ]
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "mlEnabled": true,
+  "trainingPhrases": [
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "i enjoy drawing and painting."
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "you know how to draw and paint?"
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "i've always liked to draw and paint."
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "i didn't know you knew how to draw and paint."
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "when i have time, i sometimes draw and paint."
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "did you always know how to draw and paint?"
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "they're in the kitchen drawer."
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "i need to withdraw some money."
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "i saw a painting of a jar that was full of pencils."
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "did you ever see anything that picasso painted?"
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "i can't believe it. i drew paintings like that in third grade."
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "an andy warhol drawing."
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "i was a painter."
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "did you look in the desk drawer?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "name": "",
+  "auto": true,
+  "responses": [
+    {
+      "text": {
+        "text": [
+          "i like listening to different kinds of music.",
+          "like what, for instance?",
+          "i enjoy listening to all kinds of music.",
+          "what kind?",
+          "i like the kinds of instruments that they use."
+        ]
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "mlEnabled": true,
+  "trainingPhrases": [
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "what type of music do you like to listen to?"
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "i like listening to different kinds of music."
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "what kind of music do you enjoy listening to?"
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "i enjoy listening to all kinds of music."
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "why do you like that type of music?"
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "what is your favorite kind of music?"
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "i listen to various types of music."
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "what interests you in that type of music?"
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "they are the best musical group ever."
+        }
+      ]
+    }
+  ]
+}
